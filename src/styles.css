@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:  #b0a7a9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    padding-top: 40px;
+    background-image: url('https://www.transparenttextures.com/patterns/notebook.png');
+  }
+  
+  .container {
+    width: 600px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    background-image: linear-gradient(white 99%, rgba(0, 0, 0, 0.02) 1%);
+    background-size: 100% 24px;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+    font-family: 'Georgia', serif;
+  }
