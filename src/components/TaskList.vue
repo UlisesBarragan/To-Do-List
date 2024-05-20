@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>To-Do-LIST</h1>
+      <h1>To-Do-List</h1>
       <input v-model="newTask" placeholder="Agregar nueva tarea" />
       <button @click="addTask">Agregar</button>
       <ul>
@@ -101,5 +101,4 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-</style>
-  
+</style> 

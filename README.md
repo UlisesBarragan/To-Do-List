@@ -1,24 +1,34 @@
-# to-do-list
+# To-Do List
 
-## Project setup
-```
-npm install
-```
+Esta es una lista de tareas (to-do list) creada con Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Como usar la aplicación
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Clona este repositorio, en la carpeta que desees:
+    ```sh
+    git clone (link del repositorio)
+    ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. Navega al directorio donde se encuentra el proyecto:
+    ```sh
+    cd to-do-list
+    ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. Instala npm para poder iniciar la aplicación:
+    ```sh
+    npm install
+    ```
+
+4. Con el repositorio clonado y una vez que te encuentres en la carpeta correcta, puedes iniciar la aplicación:
+   
+    ```sh
+    npm run serve
+    ```
+
+5. Abre tu navegador y entra a`http://localhost:8080` para ver la aplicación.
+
+## Funcionamiento
+
+- Puedes añadir tus tareas escribiéndolas en el campo de entrada y haciendo clic en "Agregar".
+- Puedes marca las tareas como completadas haciendo clic en la casilla que se encuentra a la izquierda
+- Puedes elimina una tarea haciendo clic en la "x" al lado de la tarea.
