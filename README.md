@@ -1,8 +1,8 @@
 # To-Do List
 
-Esta es una sencilla aplicación de lista de tareas (to-do list) creada con Vue.js.
+Esta es una lista de tareas (to-do list) creada con Vue.js.
 
-## Instalación
+## Como usar la aplicación
 
 1. Clona este repositorio, en la carpeta que desees:
     ```sh
@@ -14,22 +14,20 @@ Esta es una sencilla aplicación de lista de tareas (to-do list) creada con Vue.
     cd to-do-list
     ```
 
-3. Instala las dependencias:
+3. Instala npm para poder iniciar la aplicación:
     ```sh
     npm install
     ```
 
-## Ejecución
-
-1. Con el repositorio clonado y una vez que te encuentres en la carpeta correcta, puedes iniciar la aplicación:
+4. Con el repositorio clonado y una vez que te encuentres en la carpeta correcta, puedes iniciar la aplicación:
    
     ```sh
     npm run serve
     ```
 
-3. Abre tu navegador y entra a`http://localhost:8080` para ver la aplicación.
+5. Abre tu navegador y entra a`http://localhost:8080` para ver la aplicación.
 
-## Uso
+## Funcionamiento
 
 - Puedes añadir tus tareas escribiéndolas en el campo de entrada y haciendo clic en "Agregar".
 - Puedes marca las tareas como completadas haciendo clic en la casilla que se encuentra a la izquierda
